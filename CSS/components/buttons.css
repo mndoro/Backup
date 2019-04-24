@@ -1,0 +1,29 @@
+.btn-square{
+    color: #d4312d;
+    padding: 10px 15px;
+    font-weight: bold;
+    border: 1px solid #d4312d;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.btn-square:hover {
+    opacity: 1;
+    text-decoration: none;
+}
+
+
+.btn-rounded{
+    color: #808080;
+    padding: 10px 15px;
+    font-weight: bold;
+    border: 1px solid #808080;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+
+.btn-rounded:hover {
+    opacity: 1;
+    text-decoration: none;
+}
